@@ -1,0 +1,329 @@
+[{
+        "id": 44,
+        "name": "福州",
+        "pinyin": "fuzhou",
+        "acronym": "fz",
+        "rank": "B",
+        "firstChar": "F"
+    },
+    {
+        "id": 62,
+        "name": "厦门",
+        "pinyin": "xiamen",
+        "acronym": "xm",
+        "rank": "B",
+        "firstChar": "X"
+    },
+    {
+        "id": 110,
+        "name": "泉州",
+        "pinyin": "quanzhou",
+        "acronym": "qz",
+        "rank": "C",
+        "firstChar": "Q"
+    },
+    {
+        "id": 207,
+        "name": "莆田",
+        "pinyin": "putian",
+        "acronym": "pt",
+        "rank": "C",
+        "firstChar": "P"
+    },
+    {
+        "id": 208,
+        "name": "三明",
+        "pinyin": "sanming",
+        "acronym": "sm",
+        "rank": "E",
+        "firstChar": "S"
+    },
+    {
+        "id": 209,
+        "name": "漳州",
+        "pinyin": "zhangzhou",
+        "acronym": "zhangzhou",
+        "rank": "D",
+        "firstChar": "Z"
+    },
+    {
+        "id": 210,
+        "name": "南平",
+        "pinyin": "nanping",
+        "acronym": "np",
+        "rank": "E",
+        "firstChar": "N"
+    },
+    {
+        "id": 211,
+        "name": "龙岩",
+        "pinyin": "longyan",
+        "acronym": "ly",
+        "rank": "D",
+        "firstChar": "L"
+    },
+    {
+        "id": 212,
+        "name": "宁德",
+        "pinyin": "ningde",
+        "acronym": "nd",
+        "rank": "D",
+        "firstChar": "N"
+    },
+    {
+        "id": 420,
+        "name": "晋江市",
+        "pinyin": "jinjiangshi",
+        "acronym": "jinjiang",
+        "rank": "D",
+        "firstChar": "J"
+    },
+    {
+        "id": 440,
+        "name": "石狮",
+        "pinyin": "shishi",
+        "acronym": "ss",
+        "rank": "E",
+        "firstChar": "S"
+    },
+    {
+        "id": 443,
+        "name": "武夷山",
+        "pinyin": "wuyishan",
+        "acronym": "wys",
+        "rank": "F",
+        "firstChar": "W"
+    },
+    {
+        "id": 462,
+        "name": "福清",
+        "pinyin": "fuqing",
+        "acronym": "fuqing",
+        "rank": "E",
+        "firstChar": "F"
+    },
+    {
+        "id": 463,
+        "name": "长乐",
+        "pinyin": "changle",
+        "acronym": "changle",
+        "rank": "F",
+        "firstChar": "C"
+    },
+    {
+        "id": 618,
+        "name": "龙海区",
+        "pinyin": "longhaiqu",
+        "acronym": "lh",
+        "rank": "F",
+        "firstChar": "L"
+    },
+    {
+        "id": 621,
+        "name": "南安",
+        "pinyin": "nanan",
+        "acronym": "na",
+        "rank": "E",
+        "firstChar": "N"
+    },
+    {
+        "id": 663,
+        "name": "漳浦",
+        "pinyin": "zhangpu",
+        "acronym": "zhangpu",
+        "rank": "F",
+        "firstChar": "Z"
+    },
+    {
+        "id": 724,
+        "name": "连江",
+        "pinyin": "lianjiangxian",
+        "acronym": "lianjiangxian",
+        "rank": "F",
+        "firstChar": "L"
+    },
+    {
+        "id": 756,
+        "name": "建阳",
+        "pinyin": "jianyangjy",
+        "acronym": "jianyangjy",
+        "rank": "F",
+        "firstChar": "J"
+    },
+    {
+        "id": 805,
+        "name": "平潭",
+        "pinyin": "pingtan",
+        "acronym": "pingtan",
+        "rank": "F",
+        "firstChar": "P"
+    },
+    {
+        "id": 810,
+        "name": "霞浦",
+        "pinyin": "xiapu",
+        "acronym": "xiapu",
+        "rank": "F",
+        "firstChar": "X"
+    },
+    {
+        "id": 825,
+        "name": "惠安",
+        "pinyin": "huian",
+        "acronym": "huian",
+        "rank": "F",
+        "firstChar": "H"
+    },
+    {
+        "id": 844,
+        "name": "安溪",
+        "pinyin": "anxi",
+        "acronym": "anxi",
+        "rank": "F",
+        "firstChar": "A"
+    },
+    {
+        "id": 933,
+        "name": "鼓浪屿",
+        "pinyin": "gulangyu",
+        "acronym": "gulangyu",
+        "rank": "Z",
+        "firstChar": "G"
+    },
+    {
+        "id": 954,
+        "name": "长汀",
+        "pinyin": "changting",
+        "acronym": "changting",
+        "rank": "F",
+        "firstChar": "C"
+    },
+    {
+        "id": 955,
+        "name": "上杭",
+        "pinyin": "shanghang",
+        "acronym": "shanghang",
+        "rank": "F",
+        "firstChar": "S"
+    },
+    {
+        "id": 962,
+        "name": "同安",
+        "pinyin": "tongan",
+        "acronym": "tongan",
+        "rank": "F",
+        "firstChar": "T"
+    },
+    {
+        "id": 963,
+        "name": "集美",
+        "pinyin": "jimei",
+        "acronym": "jimei",
+        "rank": "F",
+        "firstChar": "J"
+    },
+    {
+        "id": 964,
+        "name": "海沧",
+        "pinyin": "haicang",
+        "acronym": "haicang",
+        "rank": "F",
+        "firstChar": "H"
+    },
+    {
+        "id": 1047,
+        "name": "永安",
+        "pinyin": "yongan",
+        "acronym": "yongan",
+        "rank": "F",
+        "firstChar": "Y"
+    },
+    {
+        "id": 1048,
+        "name": "漳平",
+        "pinyin": "zhangping",
+        "acronym": "zhangping",
+        "rank": "F",
+        "firstChar": "Z"
+    },
+    {
+        "id": 1049,
+        "name": "武平县",
+        "pinyin": "wupingxian",
+        "acronym": "wupingxian",
+        "rank": "F",
+        "firstChar": "W"
+    },
+    {
+        "id": 1149,
+        "name": "仙游县",
+        "pinyin": "xianyouxian",
+        "acronym": "xianyouxian",
+        "rank": "F",
+        "firstChar": "X"
+    },
+    {
+        "id": 1158,
+        "name": "沙县区",
+        "pinyin": "shaxianqu",
+        "acronym": "shaxian",
+        "rank": "F",
+        "firstChar": "S"
+    },
+    {
+        "id": 1174,
+        "name": "光泽",
+        "pinyin": "guangze",
+        "acronym": "guangze",
+        "rank": "F",
+        "firstChar": "G"
+    },
+    {
+        "id": 1184,
+        "name": "罗源县",
+        "pinyin": "luoyuanxian",
+        "acronym": "luoyuanxian",
+        "rank": "F",
+        "firstChar": "L"
+    },
+    {
+        "id": 1189,
+        "name": "邵武",
+        "pinyin": "shaowu",
+        "acronym": "shaowu",
+        "rank": "F",
+        "firstChar": "S"
+    },
+    {
+        "id": 1195,
+        "name": "福安",
+        "pinyin": "fuan",
+        "acronym": "fuan",
+        "rank": "F",
+        "firstChar": "F"
+    },
+    {
+        "id": 1196,
+        "name": "柘荣",
+        "pinyin": "zherong",
+        "acronym": "zherong",
+        "rank": "F",
+        "firstChar": "Z"
+    },
+    {
+        "id": 1202,
+        "name": "福鼎市",
+        "pinyin": "fudingshi",
+        "acronym": "fudingshi",
+        "rank": "F",
+        "firstChar": "F"
+    },
+    {
+        "id": 1219,
+        "name": "闽侯县",
+        "pinyin": "minhouxian",
+        "acronym": "minhouxian",
+        "rank": "F",
+        "firstChar": "M"
+    }
+]

@@ -1,0 +1,68 @@
+[{
+        "class": "iStyle",
+        "title": "有格调",
+        "list": [{
+                "text": "全部",
+                "tab": "all"
+            },
+            {
+                "text": "约会聚餐",
+                "tab": "food"
+            },
+            {
+                "text": "丽人SPA",
+                "tab": "spa"
+            },
+            {
+                "text": "电影演出",
+                "tab": "movie"
+            },
+            {
+                "text": "品质出游",
+                "tab": "travel"
+            }
+        ]
+    },
+    {
+        "class": "youhui",
+        "title": "很优惠",
+        "list": [{
+                "text": "全部",
+                "tab": "all"
+            },
+            {
+                "text": "美食",
+                "tab": "food"
+            },
+            {
+                "text": "休闲",
+                "tab": "spa"
+            }
+        ]
+    },
+    {
+        "class": "mingsu",
+        "title": "名宿",
+        "list": [{
+                "text": "全部",
+                "tab": "all"
+            },
+            {
+                "text": "厦门",
+                "tab": "food"
+            },
+            {
+                "text": "福州",
+                "tab": "spa"
+            }
+        ]
+    },
+    {
+        "class": "tuijian",
+        "title": "推荐",
+        "list": [{
+            "text": "为你甄选最合适的",
+            "tab": "all"
+        }]
+    }
+]

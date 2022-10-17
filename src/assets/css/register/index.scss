@@ -1,0 +1,224 @@
+.page-register {
+  .header {
+    border-bottom: 2px solid #2bb8aa;
+    min-width: 980px;
+    color: #666;
+
+    .wrapper {
+      margin: 0 auto;
+      padding: 10px 0;
+      width: 980px;
+
+      &:after {
+        content: '';
+        display: block;
+        clear: both;
+        height: 0;
+        overflow: hidden;
+        visibility: hidden;
+      }
+
+      .logo {
+        float: left;
+        background-image: url(//p0.meituan.net/passport/b980dc129cd9a9ef64a11869b8e2cae06288.png);
+        background-size: contain !important;
+        width: 128px;
+        height: 47px;
+        display: block;
+        text-indent: -9999px;
+        overflow: hidden;
+      }
+
+      .login {
+        float: right;
+        height: 36px;
+        line-height: 36px;
+
+        .tip {
+          margin-right: 10px;
+          vertical-align: sub;
+          font-size: 16px;
+        }
+
+        a {
+          padding: 5px 10px;
+          background-color: #2db3a6;
+          color: aliceblue;
+          text-decoration: none;
+          font-size: 12px;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+
+  >.content {
+    margin: 0 auto 30px;
+    padding-top: 30px;
+    width: 980px;
+    min-height: 300px;
+    padding-right: 550px;
+    box-sizing: border-box;
+
+    .sign-login-btn {
+      cursor: pointer;
+      background: #FFD100;
+      border-radius: 2px;
+      width: 320px;
+      padding: 10px 0;
+    }
+
+    .btn {
+      color: #222222;
+      background-image: linear-gradient(135deg, #FFD000 0%, #FFBD00 100%);
+      border-width: 0 0;
+      zoom: 1;
+      filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FF2EC3B4', endColorstr='#FF2DB3A6');
+      background-size: 100%;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    .pw-strength {
+      position: relative;
+      width: 318px;
+      top: -10px;
+      left: 107px;
+      background: #eee;
+
+      .bar {
+        background: #d3ebee;
+        height: 20px;
+        width: 0;
+        overflow: hidden;
+        transition: all .4s linear;
+
+        &.weak {
+          width: 104px;
+          background: #f76120;
+        }
+
+        &.normal {
+          width: 210px;
+          background: #ff8900;
+        }
+
+        &.strong {
+          width: 318px;
+          background: #5bab3c;
+        }
+      }
+
+      .letter {
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        span {
+          display: block;
+          float: left;
+          text-align: center;
+          font-size: 12px;
+          height: 20px;
+          line-height: 20px;
+          width: 104px;
+          border-right: 2px solid #fff;
+          color: #fff;
+        }
+      }
+    }
+
+    .user-agreement-wrap {
+      margin-top: -22px;
+      padding-left: 110px;
+
+      .tip {
+        width: 140px;
+        height: 26px;
+        line-height: 25px;
+        visibility: hidden;
+        text-align: center;
+        color: #fff;
+        border-radius: 4px;
+        background-color: #222;
+        font-family: PingFangSC-Medium;
+        font-weight: 400;
+        position: relative;
+        opacity: .7;
+        left: -4.5px;
+        top: -5px;
+        font-size: 12px;
+      }
+
+      .text {
+        display: flex;
+        font-size: 14px;
+        text-align: left;
+
+        label {
+          display: inline-block;
+          min-width: 10%;
+
+          .checkbox {
+            display: none;
+          }
+
+          .checkbox+i {
+            display: inline-block;
+            border: 1px solid #ccc;
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            background-color: #fff;
+            background-color: #FED100;
+            position: relative;
+            margin: 2px 5px;
+
+            &:after {
+              position: absolute;
+              content: "";
+              width: 3px;
+              height: 5px;
+              top: 30%;
+              left: 50%;
+              transform: rotate(45deg) translateX(-50%);
+              border: 1px solid #222;
+              border-top: none;
+              border-left: none;
+            }
+          }
+        }
+
+        .user-agreement-content {
+          font-weight: 400;
+          color: rgba(0, 0, 0, 0.50);
+        }
+      }
+    }
+
+    .status {
+      font-size: 12px;
+      margin-left: 20px;
+      color: #e6a23c;
+    }
+
+    .error {
+      color: red;
+    }
+
+    .f1 {
+      display: block;
+    }
+  }
+
+  >footer {
+    color: #999;
+    border-top: 1px solid #EEE;
+    padding-top: 20px;
+    font-size: 13px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
